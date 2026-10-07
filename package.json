@@ -1,0 +1,15 @@
+{
+  "name": "clinicaltrials-gov-scraper",
+  "version": "2.0.0",
+  "type": "module",
+  "description": "Clinical studies, sponsors, and sites from ClinicalTrials.gov. Python, Node.js and cURL clients for the ClinicalTrials.gov Scraper on Apify, pay per result.",
+  "main": "clinicaltrials_gov_scraper.mjs",
+  "scripts": {
+    "start": "node clinicaltrials_gov_scraper.mjs"
+  },
+  "dependencies": {
+    "apify-client": "^2.9.0"
+  },
+  "license": "MIT",
+  "homepage": "https://themineworks.com/actors/clinicaltrials-scraper/"
+}
